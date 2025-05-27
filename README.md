@@ -7,9 +7,8 @@
 
 **AWS Certified Machine Learning Specialist** and **AI Engineer** with 11 years of diverse experience spanning healthcare technology, analytical sciences, and engineering quality assurance. I specialize in **Deep Learning**, **Computer Vision**, and **Geospatial Analytics** with a proven track record of delivering real-world AI solutions.
 
-🎓 **Education:** B.Sc. in Geology (2013), M.Sc. in Geophysics (Advanced studies)  
-🌍 **Location:** Oman (Working Remotely)  
-🏢 **Current Role:** AI Engineer at company with offices in Saudi Arabia and Egypt  
+🌍 **Location:** Oman  
+🏢 **Current Role:** AI Engineer
 
 > 🎯 **Career Transition Success** - Successfully pivoted from geological sciences to AI/ML, bringing unique analytical perspective to AI development. Recently completed major GitHub profile optimization (42→30 repositories, 29% reduction).
 
