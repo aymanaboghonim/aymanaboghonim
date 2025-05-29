@@ -43,37 +43,47 @@
 
 ## 📊 Featured Projects & Contributions
 
-### 🤖 [Device Price Classification System](https://github.com/aymanaboghonim/Devices_Price_Classification_System) ⭐ **ML Showcase**
-Comprehensive machine learning project demonstrating data science methodology and implementation
-- **Approach:** Multiple classification algorithms with performance comparison
-- **Topics:** `machine-learning` `python` `classification` `data-science` `ml-project`
-- **Learning Focus:** Data preprocessing, model selection, evaluation metrics
-
-### 🧠 [LLM Prompts Collection](https://github.com/aymanaboghonim/llm-prompts) ⭐ **AI Knowledge Sharing**
-Curated collection of effective prompts for Large Language Models
-- **Topics:** `llm` `prompts` `ai` `artificial-intelligence` `prompt-engineering`
-- **Purpose:** Community contribution to AI development and prompt engineering best practices
-- **Value:** Open-source knowledge sharing for AI practitioners
-- **🎯 Featured:** Interactive GitHub Profile README Creator - Step-by-step agentic prompt for professional profile creation
-
-### 🌐 [Elmentor Landing Page](https://github.com/aymanaboghonim/elmentor-landing-page) ⭐ **Private Community Platform**
+### 🌐 [Elmentor Landing Page](https://github.com/aymanaboghonim/elmentor-landing-page) ⭐ **ACTIVE - Private Community Platform**
 Modern, responsive landing page for DevOps Vision's El Mentor private mentorship community
 - **Tech Stack:** React 19.1.0, Vite 6.3.5, Modern CSS, Component Architecture
 - **🚀 Live Demo:** [aymanaboghonim.github.io/elmentor-landing-page](https://aymanaboghonim.github.io/elmentor-landing-page)
-- **Purpose:** Supporting DevOps Vision's exclusive mentorship platform development
+- **Status:** **Active Development** - Supporting DevOps Vision's exclusive mentorship platform
 - **Organization:** Part of [DevOps Visions](https://github.com/DevOpsVisions) ecosystem
 
-### 💼 [My Projects Portfolio](https://github.com/aymanaboghonim/My_Projects) ⭐ **Learning Journey**
-Comprehensive showcase of development journey and technical evolution
-- **Topics:** `portfolio` `projects` `showcase` `development`
-- **Includes:** Computer Vision experiments, Data Analysis projects, Udacity coursework
-- **Highlights:** Career transition progression, learning milestones, experimental work
+### 🤖 [LLM Prompts Library](https://github.com/aymanaboghonim/llm-prompts) ⭐ **ACTIVE - AI Knowledge Sharing**
+**Professional prompt engineering made simple.** Battle-tested, production-ready prompts for developers and AI practitioners
+- **📚 Value:** Transform AI workflows with consistent, high-quality results
+- **🎯 Featured:** Interactive GitHub Profile README Creator with 5 different approaches
+- **🚀 Impact:** Copy-paste prompts for ChatGPT, Claude, GitHub Copilot, Gemini
+- **Status:** **Active Community Project** - Growing library with regular updates
+- **Topics:** `llm` `prompts` `ai` `prompt-engineering` `developer-tools`
 
-### 🔧 [Elmentor Landing Page MVP](https://github.com/aymanaboghonim/elmentor-landing-page-mvp) ⭐ **Development Reference**
-Development methodology showcase and testing framework implementation
-- **Topics:** `mvp` `landing-page` `reference` `frontend`
+### 💼 [My Projects Portfolio](https://github.com/aymanaboghonim/My_Projects) 🔧 **ENHANCING - Learning Journey Archive**
+Comprehensive showcase of development journey and technical evolution (old learning demos)
+- **Purpose:** Historical learning progression and experimental work
+- **Includes:** Computer Vision experiments, Data Analysis projects, Udacity coursework
+- **Status:** **Enhancing Phase** - Adding documentation and organizing legacy projects
+- **Value:** Career transition progression, learning milestones, technical growth
+- **Topics:** `portfolio` `learning` `computer-vision` `data-science` `career-transition`
+
+---
+
+### 📁 **Reference & Legacy Projects**
+
+### 🔧 [Elmentor Landing Page MVP](https://github.com/aymanaboghonim/elmentor-landing-page-mvp) 📚 **INACTIVE - Development Reference**
+*First version using agentic development mode - replaced by current Elmentor Landing Page*
+- **Purpose:** Development methodology showcase and testing framework implementation
 - **Features:** Playwright testing, development documentation, MVP approach
-- **Purpose:** Demonstrating software development best practices
+- **Status:** **Reference Only** - Demonstrates software development best practices
+- **Historical Value:** Shows evolution from MVP to production-ready solution
+
+### 🤖 [Device Price Classification System](https://github.com/aymanaboghonim/Devices_Price_Classification_System) 📚 **INACTIVE - ML Showcase**
+*Comprehensive ML project created for job applications (2+ years ago)*
+- **Purpose:** Demonstrates data science methodology and implementation
+- **Approach:** Multiple classification algorithms with performance comparison
+- **Status:** **Archive** - Historical project showcasing ML fundamentals
+- **Learning Focus:** Data preprocessing, model selection, evaluation metrics
+- **Topics:** `machine-learning` `python` `classification` `data-science`
 
 ## 🏆 Professional Highlights
 
