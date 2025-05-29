@@ -14,9 +14,10 @@
 
 ### 🔭 Currently Working On
 - **🤖 Computer Vision Projects** - Building detection and crop identification for real estate digital transformation
-- **🌐 AI Mentorship Platform** - Contributing to Elmentor community ([View Live](https://aymanaboghonim.github.io/elmentor-landing-page))
+- **🌐 El Mentor Private Community** - Contributing to DevOps Vision's private mentorship platform ([View Landing Page](https://aymanaboghonim.github.io/elmentor-landing-page))
 - **📊 Geospatial Analytics** - Combining geological background with modern AI techniques
 - **🧠 Technical Content Creation** - Sharing AI/ML knowledge and career transition insights
+- **🚀 DevOps Community Leadership** - Group Advisory role in DevOps Vision's global proactive DevOps community (COP)
 
 ### 🌱 Learning & Exploring
 - Advanced Deep Learning architectures and optimization
@@ -24,31 +25,21 @@
 - Geospatial AI applications and satellite imagery analysis
 - Cloud-native ML deployment on AWS
 
-## 🛠️ Technology Stack & Expertise
+## 🛠️ Core Technology Stack
 
-### 🤖 AI/ML Frameworks & Tools
+### 🤖 AI/ML & Cloud
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Detectron2](https://img.shields.io/badge/Detectron2-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
 
 ### 📊 Data Science & Analytics
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-### 🌍 Geospatial & Domain Expertise
+### 🌍 Domain Expertise
 ![GIS](https://img.shields.io/badge/GIS-326CE5?style=for-the-badge&logo=esri&logoColor=white)
 ![Geophysics](https://img.shields.io/badge/Geophysics-8B4513?style=for-the-badge&logo=geology&logoColor=white)
-![Remote Sensing](https://img.shields.io/badge/Remote_Sensing-228B22?style=for-the-badge&logo=satellite&logoColor=white)
-
-### 💻 Development & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## 📊 Featured Projects & Contributions
 
@@ -63,12 +54,14 @@ Curated collection of effective prompts for Large Language Models
 - **Topics:** `llm` `prompts` `ai` `artificial-intelligence` `prompt-engineering`
 - **Purpose:** Community contribution to AI development and prompt engineering best practices
 - **Value:** Open-source knowledge sharing for AI practitioners
+- **🎯 Featured:** Interactive GitHub Profile README Creator - Step-by-step agentic prompt for professional profile creation
 
-### 🌐 [Elmentor Landing Page](https://github.com/aymanaboghonim/elmentor-landing-page) ⭐ **Community Platform**
-Modern, responsive landing page for the Elmentor mentorship community
+### 🌐 [Elmentor Landing Page](https://github.com/aymanaboghonim/elmentor-landing-page) ⭐ **Private Community Platform**
+Modern, responsive landing page for DevOps Vision's El Mentor private mentorship community
 - **Tech Stack:** React 19.1.0, Vite 6.3.5, Modern CSS, Component Architecture
 - **🚀 Live Demo:** [aymanaboghonim.github.io/elmentor-landing-page](https://aymanaboghonim.github.io/elmentor-landing-page)
-- **Purpose:** Supporting mentorship community platform development
+- **Purpose:** Supporting DevOps Vision's exclusive mentorship platform development
+- **Organization:** Part of [DevOps Visions](https://github.com/DevOpsVisions) ecosystem
 
 ### 💼 [My Projects Portfolio](https://github.com/aymanaboghonim/My_Projects) ⭐ **Learning Journey**
 Comprehensive showcase of development journey and technical evolution
@@ -89,7 +82,9 @@ Development methodology showcase and testing framework implementation
 - ✅ **Detectron2 & YOLO Implementation** - Production-ready computer vision systems
 - ✅ **Geospatial Analytics** - Combining geological expertise with AI for spatial analysis
 
-### 📚 **Knowledge Sharing & Mentorship**
+### 📚 **Leadership & Community Contribution**
+- ✅ **DevOps Vision Advisory** - Group Advisory role in DevOps Vision's global proactive DevOps community (COP) that fosters collaboration and growth among its members. Through regular meetings, the community provides opportunities for members to expand their network and meet new people. Additionally, they provide a platform for discussion on challenging technical issues, ensuring that everyone can access valuable information and knowledge. The community features experts and gurus who offer mentorship to members in their respective areas of expertise, further supporting the growth and development of all community members. The community has several activities like study-groups for professional certificates, organizing technical events and sessions with guest speakers and members among other activities. ([DevOps Visions Open Community](https://github.com/DevOpsVisions))
+- ✅ **El Mentor Private Community** - Contributing to DevOps Vision's exclusive mentorship platform development
 - ✅ **Technical Content Creation** - Sharing AI/ML insights on platforms like Facebook
 - ✅ **Career Transition Guidance** - Mentoring others in AI/ML career pivots
 - ✅ **Open Source Contribution** - LLM prompts and AI knowledge sharing
@@ -109,9 +104,10 @@ Development methodology showcase and testing framework implementation
 
 - **🤖 AI & Computer Vision:** Developing practical AI solutions for real-world problems, especially in geospatial and real estate domains
 - **🌍 Geospatial Analytics:** Leveraging geological background for innovative spatial AI applications
+- **🚀 DevOps Vision Leadership:** Fostering collaboration and growth in DevOps Vision's global community through advisory role
 - **📚 Knowledge Sharing:** Creating technical content and mentoring others through career transitions
 - **🔬 Continuous Learning:** Staying current with latest AI/ML research and AWS cloud technologies
-- **🤝 Community Building:** Contributing to mentorship platforms and open-source AI knowledge
+- **🤝 Community Building:** Contributing to both private (El Mentor) and open ([DevOps Visions](https://github.com/DevOpsVisions)) community platforms
 - **💡 Problem Solving:** Combining analytical science background with modern AI techniques
 
 ## 🏆 Recent Achievements
