@@ -4,65 +4,66 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Portfolio-100000?style=flat-square&logo=github&logoColor=white)](https://github.com/aymanaboghonim)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aymanaboghonim@gmail.com)
 
-> **AI Engineer | Computer Vision & Multimodal | Systems Inference & MLOps**
+> **Senior AI Engineer | Multimodal & Vision Systems | LLM Reliability & MLOps**
 
-AI Engineer with 5 years of experience building and delivering production computer vision pipelines for geospatial and municipal intelligence. 
+Results-driven **Senior AI Engineer** with 5 years of experience owning the end-to-end lifecycle of production AI and computer vision systems—from business requirement scoping and data strategy to cloud deployment and executive reporting.
 
-My work bridges high-resolution visual modeling with generative inference—designing hierarchical vision pipelines while engineering resource-constrained serving platforms governed by strict reliability contracts.
+My work bridges high-resolution visual modeling with generative AI—architecting multimodal inspection pipelines (Vision + VLM), leading large-scale data operations, and engineering resource-efficient serving platforms governed by strict reliability contracts and full-stack observability.
 
 ---
 
-### 🛠️ Technical Stack & Architecture
+### 🛠️ Core Competencies & Technical Architecture
 
 | Domain | Core Stack & Frameworks |
 | :--- | :--- |
-| **Vision & Multimodal** | YOLOv8 / YOLOv11, SAHI, OpenCV, PyTorch, Vision-Language Models (VLMs) |
-| **Inference & Systems** | vLLM, KServe, Envoy AI Gateway, AWQ INT4, FP8 KV-Cache, k3s, Docker |
-| **MLOps & Data Engine** | Labelbox SDK, DeepEval, GCP Vertex AI, Kubeflow Pipelines (KFP v2), Prometheus, Grafana |
-| **Backend & Contracts** | Python 3.12, FastAPI, LangGraph, AsyncIO, Pydantic v2, AST Parsing (sqlglot), SQL |
+| **AI & Multimodal Systems** | YOLOv8 / YOLOv11, PyTorch, Vision-Language Models (VLMs), RAG Architectures, Hybrid Search, Agentic Workflows (LangGraph), Spatial Inference (SAHI), OpenCV |
+| **Software & Reliability** | Python 3.12, FastAPI, AsyncIO, RESTful APIs, Schema Governance (Pydantic v2), Deterministic Guardrails & AST Validation (`sqlglot`), SQL |
+| **Cloud, MLOps & Serving** | GCP (Vertex AI, Kubeflow Pipelines), AWS, Azure DevOps, vLLM, Docker, Kubernetes (k3s) |
+| **System & AI Observability** | OpenTelemetry (OTel), Grafana LGTM Stack (Loki, Grafana, Tempo, Mimir/Prometheus), LLM Tracing & Evaluation (Langfuse, DeepEval) |
+| **Leadership & Delivery** | End-to-End Solution Ownership, Data Operations & QA Governance, Cross-Functional Collaboration, Cost Optimization |
 
 ---
 
-### 🚀 Systems R&D & Core Projects
+### 🚀 Engineering Projects & Production Focus
 
-#### ⚡ [NanoServe | Lightweight LLM Inference & Serving Platform](https://github.com/aymanaboghonim/nanoserve-llm)
-*Kubernetes-native serving architecture engineered for low-latency, deterministic LLM inference under compute constraints.*
-* **Architecture:** Single-node k3s cluster deploying KServe (`LLMInferenceService`), vLLM runtime, and Envoy AI Gateway with OpenAI-compatible API contracts.
-* **Optimization:** Calibrated compute budgets using AWQ INT4 quantization, FP8 KV caching, prefix caching, and token-aware admission control to prevent OOM bottlenecks.
-* **Telemetry & Delivery:** Instrumented real-time Time-To-First-Token (TTFT), inter-token latency, and KV-cache saturation via Prometheus/Grafana; deployed via hermetic GitOps pipelines.
+#### 🛡️ [sql-circuit-guard | Deterministic LLM Guardrail Engine](https://github.com/aymanaboghonim/sql-circuit-guard)
+*Open-source reliability layer enforcing AST-based query validation, read-only safety, and schema governance between LLMs and SQL engines.*
+- **Deterministic AST Validation:** Traverses Abstract Syntax Trees (`sqlglot`) to deterministically block destructive commands (`DROP`, `DELETE`, `UPDATE`, `ALTER`) and malformed syntax prior to execution.
+- **Self-Correcting Workflows:** Implements schema-aware reflection routines that guide local and cloud LLMs to resolve schema and column mismatches autonomously.
+- **Strict Safety Contracts:** Backed by Pydantic v2 schema enforcement and asynchronous state machines for predictable production execution.
 
-#### 🛡️ [sql-circuit-guard | Deterministic Text-to-SQL Guardrail Engine](https://github.com/aymanaboghonim/sql-circuit-guard)
-*Deterministic reliability bridge enforcing AST-based query validation, read-only safety, and schema inspection between LLMs and SQL engines.*
-* **AST Validation:** Traverses Abstract Syntax Trees (`sqlglot`) to block destructive commands (DROP, DELETE, UPDATE, ALTER) and malformed syntax ahead of database execution.
-* **Self-Correcting Loops:** Implements schema-aware reflection routines that guide local and cloud LLMs to resolve schema/column mismatches autonomously.
-* **Predictable Contracts:** Backed by Pydantic v2 schema enforcement and async state machines for predictable execution paths.
+#### ⚡ [NanoServe | LLM Inference & Serving Benchmark](https://github.com/aymanaboghonim/nanoserve-llm)
+*Lightweight model-serving environment engineered for low-latency, cost-controlled LLM inference under hardware constraints.*
+- **Serving Architecture:** Deployed open-weight LLMs using vLLM, Docker, and single-node Kubernetes (k3s) with OpenAI-compatible API contracts.
+- **Compute Optimization:** Benchmarked INT4 quantization, KV-cache utilization, and memory/latency trade-offs to prevent OOM bottlenecks under strict compute budgets.
+- **End-to-End Observability:** Instrumented real-time telemetry, latency metrics, and LLM trace evaluation using OpenTelemetry (OTel), the Grafana LGTM stack, and Langfuse.
 
-#### 🛰️ Geospatial Vision & Hierarchical Multimodal Pipelines
-*End-to-end production modeling and dataset engineering for large-scale aerial and satellite inspection.*
-* **Backbones & SAHI:** Fine-tuning and benchmarking detector backbones (YOLOv8/v11, OpenCV) integrated with Slicing Aided Hyper Inference (SAHI) to resolve small-object recall bottlenecks across multi-gigapixel scenes.
-* **Multimodal Compliance:** Designing two-stage architectures that extract localized visual patches via detector backbones to feed downstream Vision-Language Model (VLM) evaluation pipelines.
-* **Data Operations:** Programmatic dataset conversion tooling, structured ontologies, and consensus auditing on Labelbox across 138K+ high-resolution scenes.
+#### 🛰️ Enterprise Multimodal & Geospatial Vision Systems
+*End-to-end production modeling, automated compliance auditing, and data strategy across large-scale municipal and satellite inspection initiatives.*
+- **Multimodal AI Architecture:** Designed two-stage automated compliance pipelines coupling real-time object detection models with downstream Vision-Language Models (VLMs) using structured prompting and strict Pydantic schemas.
+- **Spatial Optimization:** Led training and deployment across satellite and street-level imagery (building footprint extraction, agricultural segmentation, urban asset detection), integrating custom post-processing and SAHI to boost small-object recall without increasing training compute costs.
+- **Data Strategy & Cloud MLOps:** Directed annotation operations and QA governance across 138K+ high-resolution images (8 municipal categories), while orchestrating cost-optimized batch training and evaluation pipelines on GCP Vertex AI and Kubeflow.
 
 ---
 
 ### 🏆 Certifications & Credentials
 
-* **GitHub Copilot Individual Certification (GH-300)** — Microsoft / GitHub *(Active: 2025–2027)*
-* **Microsoft Certified: Azure AI Fundamentals (AI-900)** — Microsoft *(Active: 2025)*
-* **AWS Certified Machine Learning – Specialty** — Amazon Web Services *(Alumni: 2021)*
+- **AWS Certified Machine Learning – Specialty** — Amazon Web Services
+- **GitHub Copilot Certification (GH-300)** — Microsoft / GitHub
+- **Microsoft Certified: Azure AI Fundamentals (AI-900)** — Microsoft
 
 ---
 
-### 🤝 Leadership & Community Enablement
+### 🤝 Technical Leadership & Community
 
-* **Technical Community Lead & Advisory Lead @ DevOps Visions:** Architecting proof-of-concept demonstrations focusing on cloud infrastructure patterns, automated data pipelines, and system observability.
-* **Engineering Mentorship (Elmentor Program):** Mentoring peer engineers on production AI roadmaps, cloud architecture patterns, and transitioning into production engineering.
-* **Technical Speaker:** Facilitated hands-on workshops and sessions on AI-assisted developer workflows (GitHub Copilot across the SDLC) and engineering metrics.
+- **Technical Community & Advisory Lead @ DevOps Visions & Elmentor Program:**
+  - **Engineering Enablement:** Designed and delivered hands-on technical workshops for software engineers on integrating AI-assisted development workflows (GitHub Copilot across the SDLC) and cloud observability practices.
+  - **Program Delivery & Mentorship:** Collaborated with industry leads and Microsoft MVPs to structure technical learning tracks via Azure DevOps, mentoring engineers on production Python standards, API design, and career progression.
 
 ---
 
 ### 📫 Connect & Collaborate
 
-* **LinkedIn:** [linkedin.com/in/ayman-aboghonim](https://linkedin.com/in/ayman-aboghonim)
-* **GitHub:** [github.com/aymanaboghonim](https://github.com/aymanaboghonim)
-* **Email:** [aymanaboghonim@gmail.com](mailto:aymanaboghonim@gmail.com)
+- **LinkedIn:** [linkedin.com/in/ayman-aboghonim](https://linkedin.com/in/ayman-aboghonim)
+- **GitHub:** [github.com/aymanaboghonim](https://github.com/aymanaboghonim)
+- **Email:** [aymanaboghonim@gmail.com](mailto:aymanaboghonim@gmail.com)
